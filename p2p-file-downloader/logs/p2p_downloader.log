@@ -1,0 +1,20 @@
+2024-11-12 10:15:37,472 - P2P-Downloader - ERROR - Application error: 
+2024-11-12 10:15:37,472 - P2P-Downloader - INFO - P2P File Downloader stopped
+2024-11-12 10:16:52,259 - P2P-Downloader - ERROR - Application error: 
+2024-11-12 10:16:52,259 - P2P-Downloader - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "main.py", line 47, in main
+    loop.add_signal_handler(
+  File "C:\Program Files\Python38\lib\asyncio\events.py", line 536, in add_signal_handler
+    raise NotImplementedError
+NotImplementedError
+2024-11-12 10:16:52,296 - P2P-Downloader - INFO - P2P File Downloader stopped
+2024-11-12 10:22:19,849 - P2P-Downloader - INFO - Application interrupted by user
+2024-11-12 10:43:20,899 - P2P-Downloader - INFO - P2P File Downloader stopped
+2024-11-12 10:47:18,642 - P2P-Downloader - INFO - Application interrupted by user
+2024-11-12 10:47:57,670 - P2P-Downloader - INFO - Application interrupted by user
+2024-11-12 10:48:23,274 - P2P-Downloader - INFO - Application interrupted by user
+2024-11-12 10:50:00,376 - P2P-Downloader - INFO - P2P File Downloader stopped
+2024-11-12 10:50:20,752 - P2P-Downloader - INFO - P2P File Downloader stopped
+2024-11-12 10:53:52,608 - P2P-Downloader - INFO - Application interrupted by user
+2024-11-12 13:10:19,236 - P2P-Downloader - INFO - Application interrupted by user
